@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/DataMiningPractice.iml" filepath="$PROJECT_DIR$/../.idea/DataMiningPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/expt1.iml" filepath="$PROJECT_DIR$/.idea/expt1.iml" />
     </modules>
   </component>
