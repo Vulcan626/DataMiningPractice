@@ -1,3 +1,13 @@
 # Remove all .DS_Store files
 find . -name '.DS_Store' -type f -delete
+.DS_Store
+
+# Remove all .idea files
+find . -name '.idea' -type d -exec rm -rf {} +
+.idea
+
+# Remove all .ipynb_checkpoints files
+find . -name '.ipynb_checkpoints' -type d -exec rm -rf {} +
+.ipynb_checkpoints
+
 
